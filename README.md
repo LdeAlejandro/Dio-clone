@@ -1,6 +1,7 @@
 # DIO Clone - React Project
 
 This project is a React-based recreation of the [DIO Clone Figma Design](https://www.figma.com/design/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=0-1&node-type=canvas&t=iUrtmwBhrumeZ1XR-0) using `styled-components` for styling.
+ [Online Project](https://www.figma.com/design/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=0-1&node-type=canvas&t=iUrtmwBhrumeZ1XR-0](https://dio-clone-eta.vercel.app) 
 
 ## Project Structure and Routing
 
